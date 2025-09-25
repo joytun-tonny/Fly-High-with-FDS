@@ -5,16 +5,24 @@ You are given a dataset containing information about the customer base of United
 
 This Kaggle competition will be counted as one of your (mandatory) class test marks. Please read the following instructions carefully to understand how you will be graded:
 
-The competition will carry 20 marks counted as one of your CTs.
+The competition will carry 20 marks counted.
+
 You will NOT be graded based on your position on the leaderboard. However, the top 3 teams will get special prizes.
 At the end of the competition, you have to prepare a presentation based on your work and present it to your respective course teacher in the last class of the trimester.
 The mark distribution is as follows:
+
 a. Completion 5 marks: If you can generate a prediction score and get yourself on the leaderboard, you will get marks for completion.
+
 b. Problem formulation 1 mark: If you can describe the problem you have been given in the dataset and what you have been asked to solve, you will get 1 mark.
+
 c. EDA 5 marks: If you find interesting insights about the dataset, you will get marks for EDA. We expect at least: insights about the null values and the range and type of values in each column.
+
 d. Data Cleaning 5 marks: You need to clean your dataset based on your EDA. Be sure that the better you clean your data, the better your score will be. We expect at least: null value handling, normalization, and standardization.
+
 e. Prediction and Model Selection 4 marks: You are free to use any model for the competition. The better your choice of model and hyperparameters, the better your result will be. We expect at least: the use of Decision Trees (DT).
+
 You have to prepare an 8-minute presentation. The slides have to be in English. The slides must contain at least the points mentioned above. It is encouraged that all members talk during the presentation. After the presentation, you will be asked questions. Anyone can be asked questions about any part of the work. Your marks will vary based on your answers. Do not exceed your allotted time for presentation.
+
 You MUST be able to answer any question regarding any decision you have made in your work. For example, if you have dropped a certain column from your dataset during cleaning, explain why you did that. If you have used a max depth of 2 for DT during prediction, you must mention why. Failure to explain decisions will result in mark deductions.
 
 ## Description
